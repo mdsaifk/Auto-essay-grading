@@ -1,0 +1,7 @@
+.idea
+<<<<<<< HEAD
+__pycache__/
+=======
+.vscode/settings.json
+__pycache__
+>>>>>>> 88698ff9079285f2995f9076da77ebf3e8bc75ad
